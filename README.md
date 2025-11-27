@@ -99,8 +99,5 @@ saucedemo-tests/
 │── requirements.txt
 │── pytest.ini
 
-
-
-Getting success message
-
 Each page is separated into its own class, improving readability and maintainability.
+
