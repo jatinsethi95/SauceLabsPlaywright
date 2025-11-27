@@ -1,0 +1,11 @@
+saucedemo-tests/
+│── pages/
+│    ├── login_page.py
+│    ├── inventory_page.py
+│    ├── cart_page.py
+│    ├── checkout_page.py
+│── tests/
+│    └── test_checkout_flow.py
+│── requirements.txt
+│── pytest.ini
+
